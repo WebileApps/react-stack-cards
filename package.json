@@ -1,5 +1,5 @@
 {
-  "name": "react-stack-cards",
+  "name": "@webileapps/react-stack-cards",
   "version": "1.0.7",
   "description": "",
   "main": "./lib/index.js",
