@@ -1,4 +1,4 @@
-declare module "react-stack-cards" { 
+declare module "@webileapps/react-stack-cards" { 
     export interface Stack {
         children?: React.ReactNode
         onMouseEnter?: () => void
